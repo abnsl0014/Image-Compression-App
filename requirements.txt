@@ -27,7 +27,6 @@ certifi==2019.9.11
 cffi==1.12.3
 chardet==3.0.4
 cloudpickle==1.2.2
-clyent==1.2.2
 cobras-ts==0.1.0
 colorama==0.4.1
 colorcet==2.0.2
